@@ -4,7 +4,7 @@
 App called Just Tech News, lets users submit links to tech-related articles, comment on other users' articles, and upvote articles for points. Application's backend was refactored using Python but was originally built using Node.js
 
 ## Link
-Website found @ https://git.heroku.com/p-news-feed.git
+Website found @ https://p-news-feed-b550ef3a8331.herokuapp.com/
 
 ## Table of Contents
 
