@@ -10,6 +10,6 @@ MarkupSafe==2.1.5
 pycparser==2.22
 PyMySQL==1.1.0
 python-dotenv==1.0.1
-six @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+six==1.15.0
 SQLAlchemy==2.0.29
 Werkzeug==3.0.2
