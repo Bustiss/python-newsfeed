@@ -16,7 +16,7 @@ Website found @ https://git.heroku.com/p-news-feed.git
 
 1. Login or Sign Up
 
--Image coming Soon
+- Image coming Soon
 
 2. Create, Comment, Edit Comments, and Upvote articles
 
